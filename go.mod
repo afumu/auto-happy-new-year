@@ -1,4 +1,4 @@
-module go-demo
+module autoHappy
 
 go 1.18
 
